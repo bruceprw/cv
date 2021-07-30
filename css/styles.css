@@ -1,5 +1,7 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
 body {
-    background-color: #FDEFEF;
+    /* background-color: #FDEFEF; */
     text-align: center;
     list-style-position: inside;
     
@@ -12,11 +14,13 @@ table {
 
 hr {
     border-color: #CDBBA7;
-    background-color: #FDEFEF;
+    /* background-color: #FDEFEF; */
     border-style: dotted none none none;
     border-width: 5px;
     height: 0px;
     width: 33%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {

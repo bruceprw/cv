@@ -1,0 +1,20 @@
+body {
+    background-color: #FDEFEF;
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    border-color: #CDBBA7;
+    background-color: #FDEFEF;
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 0px;
+    width: 33%;
+}
